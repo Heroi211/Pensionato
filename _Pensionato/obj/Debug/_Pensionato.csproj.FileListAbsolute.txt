@@ -1,0 +1,7 @@
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\bin\Debug\_Pensionato.exe.config
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\bin\Debug\_Pensionato.exe
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\bin\Debug\_Pensionato.pdb
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\obj\Debug\_Pensionato.csprojAssemblyReference.cache
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\obj\Debug\_Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\obj\Debug\_Pensionato.exe
+C:\Users\gabriel.drumond\source\repos\_Pensionato\_Pensionato\obj\Debug\_Pensionato.pdb
